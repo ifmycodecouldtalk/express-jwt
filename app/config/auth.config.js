@@ -1,3 +1,3 @@
 module.exports = {
-  secret: "JeV1337z"
+  secret: "super_secret"
 };
